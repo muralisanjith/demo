@@ -1,4 +1,4 @@
 # demo
 This is my first github repository
 <br>
-Author-M Sanjith
+Author-Murali Sanjith
